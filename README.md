@@ -51,5 +51,18 @@
   - Caso 3: La función debería de devolver true, ya que, es un palíndromo.
   - Caso 4: La función debería de devolver false, ya que, el parámetro entregado no es un palíndromo.
   - Caso 5: La función debería de devolver false, aunque el parámetro sea un palíndromo, ya que, los espacios generan diferencias entre las cadenas de textos comparadas.
+  
+  4.2:
+  - ¿Qué consideraciones tomaron en cuenta?
+    
+  Se tomaron a consideración los espacios y mayúsculas que era lo que generaba que el programa no considerará una cadena como palindromo.
+
+    - ¿Qué mejoró en su método?
+  
+  La cadena al ser ingresada en la función con el ".replaceAll("\\\s","")" y ".toLowerCase()", se le quitan los espacios y las mayusculas para comprobar si la cadena es una palindromo.
+
+  - ¿Qué rol jugaron las pruebas en mejorar su código?
+  
+  Las pruebas nos sirvieron para conocer los problemas y que habia que mejorar en el código.
 
 - Paso 5:
