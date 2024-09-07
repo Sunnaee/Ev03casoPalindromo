@@ -21,6 +21,14 @@
     consola.
 
 - Paso 2:
+
+  public static boolean esPalindromo(String cadena) {
+  String resultado = "";
+  for (int i = 0; i < cadena.length(); i++) {
+  resultado += cadena.charAt(cadena.length() - i-1);
+  }
+  return resultado.equals(cadena);
+  }
 - Paso 3:
 - Paso 4:
 - Paso 5:
