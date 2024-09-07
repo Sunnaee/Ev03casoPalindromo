@@ -65,4 +65,5 @@
   
   Las pruebas nos sirvieron para conocer los problemas y que habia que mejorar en el código.
 
-- Paso 5:
+- Paso 5: En la actividad realizada se analizó una función en JavaScript para después transformarla en Java, posteriormente se probo su funcionamiento por medio de diferentes pruebas unitarias lo que derivo en una función más pulida previniendo ciertos errores. Finalizando con la creación de pruebas de unidad para garantizar su funcionamiento. 
+
