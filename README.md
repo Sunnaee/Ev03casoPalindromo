@@ -9,9 +9,9 @@
     - ¿Cómo lo hace?
 
     Primero la función requiere el parámetro cadena, la primera línea de la función inicializa la variable resultado
-    como un string vacío. Luego esa variable almacena el parámetro cádena iterada mediante las funciones
+    como un string vacío. Luego, esa variable almacena el parámetro cadena iterada mediante las funciones
     split, reverse y join, las cuales realizan la separación de los caracteres, invierte su orden y posteriormente los 
-    une en una string. Finalmente comprueba si resultado y cadena son iguales y 
+    une en una string. Finalmente, comprueba si resultado y cadena son iguales y 
     del mismo tipo de dato, devolviendo verdadero o falso.
 
     - ¿Cómo lo uso?
@@ -29,6 +29,14 @@
   }
   return resultado.equals(cadena);
   }
+
 - Paso 3:
+    - Las 5 pruebas que se decidieron realizar son:
+  1. String vacío.
+  2. Números enteros.
+  3. Números decimales.
+  4. String con espacios.
+  5. Booleanos.
+
 - Paso 4:
 - Paso 5:
