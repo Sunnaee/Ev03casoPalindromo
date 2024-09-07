@@ -32,11 +32,16 @@
 
 - Paso 3:
     - Las 5 pruebas que se decidieron realizar son:
-  1. String vacío.
-  2. Números enteros.
-  3. Números decimales.
-  4. String con espacios.
-  5. Booleanos.
+  1. String vacío. = True
+  2. String de número entero. = True
+  3. String sin espacios. = True
+  4. String con espacios. = False
+  5. String con mayúsculas intercaladas. = False
+
+  - 2.3
+  1. "aca" = True
+  2. "acas" = False
+  3. "h" = True
 
 - Paso 4:
 - Paso 5:
