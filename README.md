@@ -44,4 +44,12 @@
   3. "h" = True
 
 - Paso 4:
+
+  4.1:
+  - Caso 1: Debería de dar problema, ya que, la función solicita un String como parámetro.
+  - Caso 2: La función debería de devolver true, ya que, al comparar debería de ser igual.
+  - Caso 3: La función debería de devolver true, ya que, es un palíndromo.
+  - Caso 4: La función debería de devolver false, ya que, el parámetro entregado no es un palíndromo.
+  - Caso 5: La función debería de devolver false, aunque el parámetro sea un palíndromo, ya que, los espacios generan diferencias entre las cadenas de textos comparadas.
+
 - Paso 5:
